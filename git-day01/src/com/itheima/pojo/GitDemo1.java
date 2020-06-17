@@ -15,6 +15,6 @@ public class GitDemo1 {
         int i = 10;
         i += 3;
         System.out.println(i);
-        //我很好
+        //我很好,大家好才是真的好
     }
 }
